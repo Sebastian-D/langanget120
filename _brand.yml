@@ -1,0 +1,42 @@
+# Shared look for the website and the PDF. Colours follow the Flatly theme.
+color:
+  palette:
+    navy: "#2C3E50"
+    teal: "#18BC9C"
+    blue: "#3498DB"
+    orange: "#F39C12"
+    red: "#E74C3C"
+    grey: "#95A5A6"
+    # Chapter colours (PDF), Pantone Colors of the Year. The *-text variants are
+    # darkened to reach 4.5:1 contrast on white; the others already do.
+    # 2024 Peach Fuzz is left out (too close to Mocha Mousse once darkened),
+    # and 2026 Cloud Dancer is an off-white.
+    ultimate-gray: "#939597"      # 2021
+    ultimate-gray-text: "#747678"
+    classic-blue: "#0F4C81"       # 2020
+    mocha-mousse: "#A47864"       # 2025
+    mocha-mousse-text: "#966B58"
+    viva-magenta: "#BB2649"       # 2023
+    illuminating: "#F5DF4D"       # 2021
+    illuminating-text: "#827700"
+    very-peri: "#6667AB"          # 2022
+  primary: navy
+  secondary: grey
+  success: teal
+  info: blue
+  warning: orange
+  danger: red
+  foreground: "#212529"
+  background: "#FFFFFF"
+
+typography:
+  fonts:
+    - family: Lato
+      source: google
+  base: Lato
+  headings:
+    family: Lato
+    weight: bold
+    color: primary
+  link:
+    color: blue

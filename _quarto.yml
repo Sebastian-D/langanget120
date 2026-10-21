@@ -1,0 +1,8 @@
+# Shared settings. Website- and PDF-specific settings live in the profiles:
+#   _quarto-website.yml  (default)  quarto render
+#   _quarto-pdf.yml                 quarto render --profile pdf
+profile:
+  group:
+    - [website, pdf]
+
+lang: sv

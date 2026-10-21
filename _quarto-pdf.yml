@@ -1,0 +1,26 @@
+project:
+  type: book
+  output-dir: _pdf
+
+book:
+  title: "Långänget 120"
+  author: "Husboken v 1.0"
+  chapters:
+    - index.qmd
+    - varmvattenberedare.qmd
+    - vattenstugan.qmd
+    - badtunna.qmd
+    - värmekabel.qmd
+    - luftvarmvattenberedare.qmd
+
+format:
+  typst:
+    papersize: a4
+    toc: true
+    template-partials:
+      - pdf/typst-show.typ
+    filters:
+      - pdf/side-images.lua
+    margin:
+      x: 2.5cm
+      y: 2.5cm

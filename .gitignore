@@ -1,0 +1,12 @@
+# Raw source material (videos, audio, frames), too large for GitHub
+media/
+
+# Generated output
+_site/
+_pdf/
+.quarto/
+/.quarto/
+
+# macOS
+.DS_Store
+

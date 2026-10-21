@@ -1,0 +1,25 @@
+project:
+  type: website
+
+website:
+  title: "Langanget120"
+  navbar:
+    left:
+      - href: varmvattenberedare.qmd
+        text: Varmvattenberedare
+      - href: vattenstugan.qmd
+        text: Vattenstugan
+      - href: badtunna.qmd
+        text: Badtunna
+      - href: värmekabel.qmd
+        text: Värmekabel
+      - href: luftvarmvattenberedare.qmd
+        text: Luftvarmvattenberedare
+
+format:
+  html:
+    theme:
+      - flatly
+      - brand
+    css: styles.css
+    toc: true
