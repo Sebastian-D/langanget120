@@ -20,6 +20,12 @@ color:
     illuminating: "#F5DF4D"       # 2021
     illuminating-text: "#827700"
     very-peri: "#6667AB"          # 2022
+    marsala: "#955251"            # 2015
+    greenery: "#88B04B"           # 2017
+    greenery-text: "#5B7A2C"
+    ultra-violet: "#5F4B8B"       # 2018
+    living-coral: "#FF6F61"       # 2019
+    living-coral-text: "#C0473B"
   primary: navy
   secondary: grey
   success: teal

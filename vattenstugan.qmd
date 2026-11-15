@@ -15,7 +15,7 @@ I vattenstugan sitter två avstängningsventiler som sticker upp ur gruset, båd
 
 ![Ventilnyckeln sätts ner på spindeln till ventilen för vår stuga.](images/vattenstugan/nyckel-pa-ventil.jpg)
 
-## Stänga av vattnet (inför vintern)
+## Stänga av vattnet (inför vintern) {#stanga-av}
 
 1. Öppna locket på vattenstugan.
 2. Sätt ventilnyckeln på vår ventil och vrid medurs för att öppna.
@@ -45,7 +45,7 @@ När vattnet är avstängt för vintern: häll lite glykol i alla vattenlås, dv
 Gör det här varje gång vattnet stängs av inför vintern, efter att ledningarna har tömts.
 :::
 
-## Sätta på vattnet igen
+## Sätta på vattnet igen {#satta-pa}
 
 1. Stäng alla kranar i stugan.
 2. Sätt ventilnyckeln på vår ventil och vrid moturs för att stänga ventilen.

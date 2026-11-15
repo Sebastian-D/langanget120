@@ -5,6 +5,10 @@ website:
   title: "Langanget120"
   navbar:
     left:
+      - href: till-vintern.qmd
+        text: Till vintern
+      - href: till-sommaren.qmd
+        text: Till sommaren
       - href: varmvattenberedare.qmd
         text: Varmvattenberedare
       - href: vattenstugan.qmd
@@ -15,6 +19,10 @@ website:
         text: Värmekabel
       - href: luftvarmvattenberedare.qmd
         text: Luftvarmvattenberedare
+      - href: luftvarmepump.qmd
+        text: Luftvärmepump
+      - href: kopplingsschema.qmd
+        text: Kopplingsschema
 
 format:
   html:

@@ -25,8 +25,8 @@ The config is split into two [project profiles](https://quarto.org/docs/projects
 - `_quarto-pdf.yml`: `project: book` with Typst output. The `chapters` list sets the PDF order.
 - **A new page must be added to both the navbar in `_quarto-website.yml` and `chapters` in `_quarto-pdf.yml`.**
 - `_brand.yml`: colours (Flatly's palette) and the Lato font, shared by both outputs.
-- `pdf/typst-show.typ`: replaces the `typst-show.typ` partial of Quarto's orange-book book format, so orange-book's `book()` layout is not used at all. It defines the whole PDF look: cover page, table of contents on page 2, each chapter on a new page (no blank pages), chapter headings with a thin rule, running header, page numbers, chapter-based figure numbers. Each chapter has its own colour for headings, header, TOC entry and a numbered thumb tab on the right edge. `chapter-palette` maps chapter numbers to palette names in `_brand.yml` (Pantone Colors of the Year, with darkened `*-text` variants for readable text). A seventh chapter would reuse colour 1, so add a palette entry along with the page. If a Quarto upgrade breaks the PDF build, compare it with `/Applications/quarto/share/extension-subtrees/orange-book/_extensions/orange-book/typst-show.typ`.
-- `pdf/side-images.lua`: PDF-only filter. Within each section (blocks between headings), each photo goes in a 4.5 cm right-hand column beside the text before it. Text after the last photo of a section joins that photo's group. That is why photos should stay right after the text they show.
+- `pdf/typst-show.typ`: replaces the `typst-show.typ` partial of Quarto's orange-book book format, so orange-book's `book()` layout is not used at all. It defines the whole PDF look: cover page, table of contents on page 2, each chapter on a new page (no blank pages), chapter headings with a thin rule, running header, page numbers, chapter-based figure numbers. Each chapter has its own colour for headings, header, TOC entry and a numbered thumb tab on the right edge. `chapter-palette` maps chapter numbers to palette names in `_brand.yml` (Pantone Colors of the Year, with darkened `*-text` variants for readable text). An eleventh chapter would reuse colour 1, so add a palette entry along with the page. If a Quarto upgrade breaks the PDF build, compare it with `/Applications/quarto/share/extension-subtrees/orange-book/_extensions/orange-book/typst-show.typ`.
+- `pdf/side-images.lua`: PDF-only filter. Within each section (blocks between headings), each photo goes in a 4.5 cm right-hand column beside the text before it. Text after the last photo of a section joins that photo's group. That is why photos should stay right after the text they show. A photo marked `{.wide}` (e.g. a schematic whose details must be readable) is kept full width instead and splits the section like a heading.
 - `index.qmd`: short landing page (chapter 1 in the PDF).
 - One `.qmd` per system:
 
@@ -37,6 +37,10 @@ The config is split into two [project profiles](https://quarto.org/docs/projects
   | `badtunna.qmd` | Hot tub: wood stove, pump timer, filter backwash, winterising | `badtunna_*.mp4` |
   | `värmekabel.qmd` | Heating cables along the water pipes, earth-fault breaker | `värmekabel.mp4` |
   | `luftvarmvattenberedare.qmd` | Air-source water heater in the bathroom: temperature, heat exchanger "turbo", immersion heater, underfloor heating, glycol refill, winter shutdown | `luftvarmvattensberedare*.mp4`, `glykol_*.mp4` |
+  | `luftvarmepump.qmd` | Air-to-air heat pump: heat needs the sun mode, avoid cooling (uninsulated line, condensation) | `media/Luftvärmepump.jpg` (photo of the remote, plus the user's notes) |
+  | `kopplingsschema.qmd` | Handwritten fuse map (transcribed into a table) and the printed wiring diagram of a heat pump outdoor unit (with a legend) | `media/Kopplingsschema1.jpg`, `media/Kopplingsschema2.jpg` |
+| `till-vintern.qmd` | Short checklist of everything to do before winter, collected from the other pages (links to their sections) | none (summary page) |
+| `till-sommaren.qmd` | Short checklist for starting the house up again after winter | none (summary page) |
 
 - `images/<page>/`: photos used on the pages (mostly stills picked from the video frames), with short descriptive kebab-case names such as `images/badtunna/timer.jpg`.
 - `styles.css`: empty placeholder.
@@ -72,6 +76,7 @@ Then read the transcript, look at the frames, copy the useful stills into `image
 - Steps go in numbered lists. Use **bold** for key settings, values and warnings (e.g. **60 grader**, **en kvart**).
 - Use Quarto callouts with a `##` heading for tips and warnings: `.callout-note`, `.callout-tip` (often "Hur ofta?"), `.callout-warning`, `.callout-important`.
 - Images: `![Full-sentence Swedish caption.](images/<page>/<name>.jpg)` placed right after the text it shows.
-- Link between pages with relative `.qmd` links, and give a section an explicit anchor when another page links to it (e.g. `vattenstugan.qmd#glykol-vattenlas`).
+- Link between pages with relative `.qmd` links, and give a section an explicit anchor when another page links to it (e.g. `vattenstugan.qmd#glykol-vattenlas`). Anchors must be unique across the whole site, since the PDF is one document (prefix with the page, e.g. `badtunna-vinter`).
+- When a page gains or changes a winter or spring step, update `till-vintern.qmd` / `till-sommaren.qmd` too.
 - Refer to the previous owner as "Tobias" when describing his habits ("Tobias har alltid kört den på 60 grader").
 - Stick to what the videos say. Do not add technical advice that is not in the source.

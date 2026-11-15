@@ -6,7 +6,7 @@ Plats: I badrummet, bakom panelen.
 
 Guide till luftvarmvattenberedaren i badrummet: hur man ställer in temperaturen, hur man får extra varmvatten, hur golvvärmen fungerar, hur man fyller på glykol och hur man stänger av inför vintern.
 
-## Ställa in temperaturen
+## Ställa in temperaturen {#temperatur}
 
 Temperaturen ställs in på displayen på väggen i badrummet.
 
@@ -44,7 +44,7 @@ Om luftvarmvattenberedaren inte klarar att hålla 60 grader i systemet slår elp
 
 Under huset finns en värmekabel som går ner till filtret, se [Värmekabeln](värmekabel.qmd). Om det kommer vatten i köket men inte i badrummet när det är kallt behöver vattnet i ledningen till badrummet värmas upp. Kör då värmekabeln en stund, cirka 5 minuter till en kvart.
 
-## Golvvärmen
+## Golvvärmen {#golvvarme}
 
 Golvvärmen har två kablar som sitter ihop. När man sätter i kontakten börjar cirkulationspumparna pumpa ut varmt vatten i golvslingorna. Man hör när den startar.
 
@@ -80,7 +80,7 @@ En liten ratt (shunt) styr vilken temperatur som skickas ut i golvvärmesystemet
 
 Det handlar om att prova sig fram. Skillnaden mellan ett golv som är 10 grader och ett som är 20 grader känns stor.
 
-## Glykol
+## Glykol {#glykol}
 
 Systemet innehåller en blandning av vatten och glykol.
 
@@ -111,7 +111,7 @@ Påfyllningen görs utifrån med en tryckspruta (glykolpåfyllaren).
 Tobias har kollat över glykolen ungefär **en gång per år**.
 :::
 
-## Inför vintern
+## Inför vintern {#beredare-vinter}
 
 1. Slå av brytaren på husets utsida. Den sitter direkt på andra sidan väggen från luftvarmvattenberedaren.
 2. Ställ gärna in ett litet element på lägsta nivån på golvet i badrummet över vintern.

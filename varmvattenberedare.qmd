@@ -8,21 +8,19 @@ Guide till varmvattenberedaren under stugan: hur man stänger av vattnet och hur
 
 ## Stänga av vattnet
 
-Avstängningsventilen sitter ovanpå varmvattenberedaren, på röret som går ut till huset. Vredet visas på bilden med vita handtaget.
+Avstängningsventilen är svart och sitter ovanpå varmvattenberedaren, på röret som går ut till huset. Vredet på bilden med vita handtaget går till gästhuset.
 
 ![Avstängningsventilen ovanpå beredaren.](images/varmvattenberedare/avstangningsventil.jpg)
 
 - Vrider man vredet så det är tvärs emot röret är vattnet **avstängt**.
 - I öppet läge följer vredet med ledningen rakt fram.
 
-När ventilen är avstängd släpps inget vatten ut till:
+När svarta ventilen är avstängd släpps inget vatten ut till:
 
 - **ventilen vid badtunnan** som sitter på väggen utomhus, och
 - **kallt och varmt vatten till köket** (de två ledningar som går vidare från beredaren).
 
-Med andra ord: stänger man den här ventilen är hela husets vattenförsörjning från beredaren avstängd.
-
-## Vattenfiltret
+## Vattenfiltret {#vattenfilter}
 
 Ledningen har ett grovfilter innan vattnet går vidare i systemet. Filtret sitter i ett hus med ett blått spärrhandtag, se bild.
 

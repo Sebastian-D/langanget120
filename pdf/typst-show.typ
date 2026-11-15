@@ -9,11 +9,15 @@
 // `tab` fills the thumb tab, `text` colours headings, `on` is the tab's number.
 #let chapter-palette = (
   (tab: "ultimate-gray", text: "ultimate-gray-text", on: black),
+  (tab: "ultra-violet", text: "ultra-violet", on: white),
+  (tab: "living-coral", text: "living-coral-text", on: black),
   (tab: "classic-blue", text: "classic-blue", on: white),
   (tab: "mocha-mousse", text: "mocha-mousse-text", on: white),
   (tab: "viva-magenta", text: "viva-magenta", on: white),
   (tab: "illuminating", text: "illuminating-text", on: black),
   (tab: "very-peri", text: "very-peri", on: white),
+  (tab: "marsala", text: "marsala", on: white),
+  (tab: "greenery", text: "greenery-text", on: black),
 )
 #let chapter-colors(n) = {
   if n < 1 { return (tab: primary, text: primary, on: white) }

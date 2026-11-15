@@ -4,14 +4,18 @@ project:
 
 book:
   title: "Långänget 120"
-  author: "Husboken v 1.0"
+  author: "Husboken v 1.1"
   chapters:
     - index.qmd
+    - till-vintern.qmd
+    - till-sommaren.qmd
     - varmvattenberedare.qmd
     - vattenstugan.qmd
     - badtunna.qmd
     - värmekabel.qmd
     - luftvarmvattenberedare.qmd
+    - luftvarmepump.qmd
+    - kopplingsschema.qmd
 
 format:
   typst:

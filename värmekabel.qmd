@@ -17,7 +17,7 @@ Kablarna kopplas in i ett uttag på väggen, och kretsen har en egen jordfelsbry
 
 När det är minusgrader kan vattenledningen frysa. Märker man det genom att man vrider på kranen ute men inget vatten kommer, då är det dags att köra värmekabeln.
 
-## Så här tinar man upp ledningen
+## Så här tinar man upp ledningen {#tina}
 
 1. Kontrollera att jordfelsbrytaren är påslagen (spaken **uppåt**, läge **1/On**).
 2. Koppla in den svarta värmekabeln i uttaget och slå på det.

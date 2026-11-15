@@ -12,6 +12,18 @@ local function is_boundary(block)
   return block.t == "Header" or block.t == "HorizontalRule"
 end
 
+-- A figure whose image has the class `wide` ({.wide}) keeps the full text width,
+-- for pictures with detail that must be readable (schematics). It also splits the
+-- section like a heading does.
+local function is_wide(block)
+  if block.t ~= "Figure" then return false end
+  local wide = block.classes:includes("wide")
+  block:walk({ Image = function(img)
+    if img.classes:includes("wide") then wide = true end
+  end })
+  return wide
+end
+
 local function side_by_side(text_blocks, figure)
   local out = pandoc.List({
     pandoc.RawBlock("typst",
@@ -61,7 +73,7 @@ function Pandoc(doc)
   local out = pandoc.List()
   local section = pandoc.List()
   for _, block in ipairs(doc.blocks) do
-    if is_boundary(block) then
+    if is_boundary(block) or is_wide(block) then
       out:extend(layout_section(section))
       section = pandoc.List()
       out:insert(block)

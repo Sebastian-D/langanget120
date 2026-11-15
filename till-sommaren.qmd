@@ -1,0 +1,55 @@
+---
+title: "Till sommaren"
+---
+
+Guide till allt som ska göras när vintern är över och huset ska börja användas igen, samlat på ett ställe. Varje del länkar till den utförliga beskrivningen.
+
+## Sätta på vattnet
+
+Mer om detta under [Vattenstugan, Sätta på vattnet igen](vattenstugan.qmd#satta-pa).
+
+1. **Stäng alla kranar** i stugan.
+2. Öppna locket på vattenstugan, sätt ventilnyckeln på **vår ventil (den närmast stugan)** och vrid **moturs**.
+3. När trycket byggs upp: vrid ventilen **ända i botten**, lite längre än man tror.
+4. Lyssna efter **porlande ljud**. Hörs det fortfarande flöde är ventilen inte helt stängd, och vatten går ut i dräneringen.
+5. Lägg tillbaka locket.
+
+::: {.callout-tip}
+## Inget vatten?
+Är det fortfarande kallt och inget vatten kommer (eller det kommer i köket men inte i badrummet) kan ledningen vara frusen. Kör den svarta värmekabeln under altanen i ungefär **en kvart**, vänta en stund och kör sedan ungefär **fem minuter** till. Se [Värmekabeln](värmekabel.qmd#tina).
+:::
+
+## Vattenfiltret
+
+Grovfiltret under stugan fångar grus som följer med när vattnet släpps på igen. Se [Vattenfiltret](varmvattenberedare.qmd#vattenfilter).
+
+## Luftvarmvattenberedaren
+
+1. Slå på **brytaren på husets utsida** igen och ta bort elementet i badrummet.
+2. Ställ in temperaturen på displayen. På sommaren räcker ofta **40 grader**. Se [Ställa in temperaturen](luftvarmvattenberedare.qmd#temperatur).
+3. Är golven kalla tidigt på våren kan man sätta i kontakten till **golvvärmen**. Räkna med **något dygn** innan golvet blir varmt. På sommaren behövs den inte. Se [Golvvärmen](luftvarmvattenberedare.qmd#golvvarme).
+4. Lyssna efter **bubbel** i systemet. Då behöver glykol fyllas på. Se [Glykol](luftvarmvattenberedare.qmd#glykol).
+
+## Badtunnan
+
+Gör stegen från [Inför vintern](badtunna.qmd#badtunna-vinter) baklänges:
+
+1. Bär ut pumpen och filtret. Lägg tillbaka **filterbollarna** (de torkade, eller nya) och skruva ihop filterbehållaren.
+2. Koppla in de **tre slangarna** till pumpen och filterbehållaren.
+3. Bär ut kaminen och koppla in slangarna till den.
+4. Stäng **avtappningsventilen** vid kaminen och sätt på locket på avtappningen.
+5. Ställ vredet på filterbehållaren på **Filtration**.
+6. Fyll tunnan med vattenslangen. Se [Fylla på vatten](badtunna.qmd#badtunna-fylla).
+
+Backspolning behövs inte vid uppstarten, eftersom allt då är rent. Gör det i stället någon gång mitt i sommaren, se [Filtret](badtunna.qmd#badtunna-filter).
+
+::: {.callout-tip}
+## Checklista
+- [ ] Alla kranar stängda, vattnet påslaget i vattenstugan och ventilen i botten
+- [ ] Locket på vattenstugan
+- [ ] Brytaren till luftvarmvattenberedaren påslagen, elementet borttaget
+- [ ] Temperaturen inställd
+- [ ] Badtunnans pump, filter och kamin på plats och inkopplade
+- [ ] Avtappningsventilen stängd, filtret på Filtration
+- [ ] Tunnan fylld
+:::

@@ -8,7 +8,7 @@ Badtunnan värms av en vedeldad kamin bredvid tunnan. Vattnet cirkuleras av en p
 
 ![Kaminen som värmer badtunnan. Slangarna i nederkant går till och från tunnan.](images/badtunna/kamin.jpg)
 
-## Fylla på vatten
+## Fylla på vatten {#badtunna-fylla}
 
 När tunnan är tom fyller man på med vattenslangen direkt ner i tunnan.
 
@@ -26,7 +26,7 @@ För att pumpen ska gå hela tiden trycker man på den **röda knappen** på tim
 När tunnan är fylld men inte används står pumpen på timer och går lite då och då. Det håller vattnet i rörelse så att det inte blir smutsigt.
 :::
 
-## Filtret
+## Filtret {#badtunna-filter}
 
 Pumpen och filtret står under altanen, bakom en lucka i panelen.
 
@@ -50,7 +50,7 @@ Ovanpå filterbehållaren sitter ett vred med flera lägen. De två viktigaste �
 Det behövs inte när man precis har startat upp för säsongen, eftersom allt då är rent. Backspola i stället när tunnan har använts ett tag, till exempel någon gång mitt i sommaren.
 :::
 
-## Inför vintern
+## Inför vintern {#badtunna-vinter}
 
 ### Tömma ledningarna och kaminen
 

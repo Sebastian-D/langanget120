@@ -1,0 +1,55 @@
+---
+title: "Till vintern"
+---
+
+Guide till allt som ska göras när huset stängs inför vintern, samlat på ett ställe. Varje del länkar till den utförliga beskrivningen.
+
+## Badtunnan
+
+Mer om detta under [Badtunnan, Inför vintern](badtunna.qmd#badtunna-vinter).
+
+1. Öppna **avtappningsventilen** på ledningen vid kaminen och ta av locket på avtappningen så att resten rinner ut.
+2. Koppla loss slangarna från kaminen, låt den rinna tom och **bär in kaminen under byggnaden**. Rören kan ligga kvar ute.
+3. Koppla loss de **tre slangarna** från pumpen och filterbehållaren.
+4. Skruva av de två skruvarna, öppna filterbehållaren och ta ur **filterbollarna**. Spola av dem och låt dem torka.
+5. Bär in pumpen och filtret och ställ dem inomhus under altanen, vid varmvattenberedaren.
+
+## Luftvarmvattenberedaren
+
+Mer om detta under [Luftvarmvattenberedaren, Inför vintern](luftvarmvattenberedare.qmd#beredare-vinter).
+
+1. Slå av **brytaren på husets utsida**, direkt på andra sidan väggen från beredaren.
+2. Ställ gärna ett litet element på **lägsta nivån** på golvet i badrummet.
+
+## Stänga av och tömma vattnet
+
+Mer om detta under [Vattenstugan, Stänga av vattnet](vattenstugan.qmd#stanga-av).
+
+1. Öppna locket på vattenstugan.
+2. Sätt ventilnyckeln på **vår ventil (den närmast stugan)** och vrid **medurs**. Vattnet börjar rinna ut ur ledningarna. Rör inte grannens ventil.
+3. Gå in i stugan och **öppna alla kranar** helt. Vrid spaken fram och tillbaka mellan varmt och kallt så att båda ledningarna töms.
+4. Lämna kranarna **öppna** över vintern.
+
+## Vattenfiltret
+
+Rengör eller byt grovfiltret (huset med det blå handtaget) under stugan, **en gång per säsong**. Se [Vattenfiltret](varmvattenberedare.qmd#vattenfilter).
+
+## Glykol i vattenlåsen
+
+När ledningarna är tömda: häll lite glykol i alla vattenlås, dvs. **toaletten**, **duschen**, **handfatet** och **diskhon i köket**. Se [Glykol i vattenlåsen](vattenstugan.qmd#glykol-vattenlas).
+
+## Avsluta
+
+Lägg tillbaka locket på vattenstugan.
+
+::: {.callout-tip}
+## Checklista
+- [ ] Badtunnans kamin tömd och inburen
+- [ ] Pump och filter urkopplade, filterbollar urtagna, allt inburet
+- [ ] Brytaren till luftvarmvattenberedaren avslagen
+- [ ] Element på lägsta i badrummet
+- [ ] Vattnet avstängt i vattenstugan, alla kranar öppna
+- [ ] Vattenfiltret rengjort eller bytt
+- [ ] Glykol i toalett, dusch, handfat och diskho
+- [ ] Locket på vattenstugan
+:::
