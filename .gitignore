@@ -10,3 +10,5 @@ _pdf/
 # macOS
 .DS_Store
 
+
+**/*.quarto_ipynb
