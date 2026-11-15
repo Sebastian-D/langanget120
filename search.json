@@ -11,11 +11,11 @@
     "href": "varmvattenberedare.html#stänga-av-vattnet",
     "title": "Varmvattenberedaren under stugan",
     "section": "Stänga av vattnet",
-    "text": "Stänga av vattnet\nAvstängningsventilen sitter ovanpå varmvattenberedaren, på röret som går ut till huset. Vredet visas på bilden med vita handtaget.\n\n\n\nAvstängningsventilen ovanpå beredaren.\n\n\n\nVrider man vredet så det är tvärs emot röret är vattnet avstängt.\nI öppet läge följer vredet med ledningen rakt fram.\n\nNär ventilen är avstängd släpps inget vatten ut till:\n\nventilen vid badtunnan som sitter på väggen utomhus, och\nkallt och varmt vatten till köket (de två ledningar som går vidare från beredaren).\n\nMed andra ord: stänger man den här ventilen är hela husets vattenförsörjning från beredaren avstängd."
+    "text": "Stänga av vattnet\nAvstängningsventilen är svart och sitter ovanpå varmvattenberedaren, på röret som går ut till huset. Vredet på bilden med vita handtaget går till gästhuset.\n\n\n\nAvstängningsventilen ovanpå beredaren.\n\n\n\nVrider man vredet så det är tvärs emot röret är vattnet avstängt.\nI öppet läge följer vredet med ledningen rakt fram.\n\nNär svarta ventilen är avstängd släpps inget vatten ut till:\n\nventilen vid badtunnan som sitter på väggen utomhus, och\nkallt och varmt vatten till köket (de två ledningar som går vidare från beredaren)."
   },
   {
-    "objectID": "varmvattenberedare.html#vattenfiltret",
-    "href": "varmvattenberedare.html#vattenfiltret",
+    "objectID": "varmvattenberedare.html#vattenfilter",
+    "href": "varmvattenberedare.html#vattenfilter",
     "title": "Varmvattenberedaren under stugan",
     "section": "Vattenfiltret",
     "text": "Vattenfiltret\nLedningen har ett grovfilter innan vattnet går vidare i systemet. Filtret sitter i ett hus med ett blått spärrhandtag, se bild.\n\n\n\nVattenfiltret sitter i ett eget hus med blått spärrhandtag.\n\n\nFiltrets uppgift är att fånga upp grus och andra grova partiklar som annars följer med vattnet, särskilt precis när man släpper på vattnet igen efter att det varit avstängt.\n\nSå här sköter man filtret\n\nStäng av vattnet på huvudventilen (se ovan) innan filtret öppnas.\nSkruva loss filterhuset (det blå handtaget/kopplingen).\nRengör filtret, eller byt ut det mot ett nytt — ett reservfilter finns tillgängligt att sätta i.\nSkruva tillbaka filterhuset.\n\n\n\n\nFilterhuset skruvas loss för rengöring eller byte.\n\n\n\n\n\n\n\n\nNoteraUnderhåll\n\n\n\nFiltret bör bytas eller rengöras en gång per säsong, i samband med att vattnet stängs av inför vintern (eller spolas rent då)."
@@ -28,6 +28,41 @@
     "text": "Övrigt\nSystemet i övrigt sköter sig själv utan vidare underhåll."
   },
   {
+    "objectID": "till-sommaren.html",
+    "href": "till-sommaren.html",
+    "title": "Till sommaren",
+    "section": "",
+    "text": "Guide till allt som ska göras när vintern är över och huset ska börja användas igen, samlat på ett ställe. Varje del länkar till den utförliga beskrivningen."
+  },
+  {
+    "objectID": "till-sommaren.html#sätta-på-vattnet",
+    "href": "till-sommaren.html#sätta-på-vattnet",
+    "title": "Till sommaren",
+    "section": "Sätta på vattnet",
+    "text": "Sätta på vattnet\nMer om detta under Vattenstugan, Sätta på vattnet igen.\n\nStäng alla kranar i stugan.\nÖppna locket på vattenstugan, sätt ventilnyckeln på vår ventil (den närmast stugan) och vrid moturs.\nNär trycket byggs upp: vrid ventilen ända i botten, lite längre än man tror.\nLyssna efter porlande ljud. Hörs det fortfarande flöde är ventilen inte helt stängd, och vatten går ut i dräneringen.\nLägg tillbaka locket.\n\n\n\n\n\n\n\nTipsInget vatten?\n\n\n\nÄr det fortfarande kallt och inget vatten kommer (eller det kommer i köket men inte i badrummet) kan ledningen vara frusen. Kör den svarta värmekabeln under altanen i ungefär en kvart, vänta en stund och kör sedan ungefär fem minuter till. Se Värmekabeln."
+  },
+  {
+    "objectID": "till-sommaren.html#vattenfiltret",
+    "href": "till-sommaren.html#vattenfiltret",
+    "title": "Till sommaren",
+    "section": "Vattenfiltret",
+    "text": "Vattenfiltret\nGrovfiltret under stugan fångar grus som följer med när vattnet släpps på igen. Se Vattenfiltret."
+  },
+  {
+    "objectID": "till-sommaren.html#luftvarmvattenberedaren",
+    "href": "till-sommaren.html#luftvarmvattenberedaren",
+    "title": "Till sommaren",
+    "section": "Luftvarmvattenberedaren",
+    "text": "Luftvarmvattenberedaren\n\nSlå på brytaren på husets utsida igen och ta bort elementet i badrummet.\nStäll in temperaturen på displayen. På sommaren räcker ofta 40 grader. Se Ställa in temperaturen.\nÄr golven kalla tidigt på våren kan man sätta i kontakten till golvvärmen. Räkna med något dygn innan golvet blir varmt. På sommaren behövs den inte. Se Golvvärmen.\nLyssna efter bubbel i systemet. Då behöver glykol fyllas på. Se Glykol."
+  },
+  {
+    "objectID": "till-sommaren.html#badtunnan",
+    "href": "till-sommaren.html#badtunnan",
+    "title": "Till sommaren",
+    "section": "Badtunnan",
+    "text": "Badtunnan\nGör stegen från Inför vintern baklänges:\n\nBär ut pumpen och filtret. Lägg tillbaka filterbollarna (de torkade, eller nya) och skruva ihop filterbehållaren.\nKoppla in de tre slangarna till pumpen och filterbehållaren.\nBär ut kaminen och koppla in slangarna till den.\nStäng avtappningsventilen vid kaminen och sätt på locket på avtappningen.\nStäll vredet på filterbehållaren på Filtration.\nFyll tunnan med vattenslangen. Se Fylla på vatten.\n\nBackspolning behövs inte vid uppstarten, eftersom allt då är rent. Gör det i stället någon gång mitt i sommaren, se Filtret.\n\n\n\n\n\n\nTipsChecklista\n\n\n\n\nAlla kranar stängda, vattnet påslaget i vattenstugan och ventilen i botten\nLocket på vattenstugan\nBrytaren till luftvarmvattenberedaren påslagen, elementet borttaget\nTemperaturen inställd\nBadtunnans pump, filter och kamin på plats och inkopplade\nAvtappningsventilen stängd, filtret på Filtration\nTunnan fylld"
+  },
+  {
     "objectID": "badtunna.html",
     "href": "badtunna.html",
     "title": "Badtunnan",
@@ -35,8 +70,8 @@
     "text": "Guide till badtunnan: hur man fyller på och värmer upp den, hur man rengör filtret och hur man förbereder allt inför vintern.\nBadtunnan värms av en vedeldad kamin bredvid tunnan. Vattnet cirkuleras av en pump med filterbehållare som står under altanen, och pumpen styrs av en timer."
   },
   {
-    "objectID": "badtunna.html#fylla-på-vatten",
-    "href": "badtunna.html#fylla-på-vatten",
+    "objectID": "badtunna.html#badtunna-fylla",
+    "href": "badtunna.html#badtunna-fylla",
     "title": "Badtunnan",
     "section": "Fylla på vatten",
     "text": "Fylla på vatten\nNär tunnan är tom fyller man på med vattenslangen direkt ner i tunnan."
@@ -49,15 +84,15 @@
     "text": "Värma upp badtunnan\n\nGör upp en eld i kaminen.\nSe till att pumpen går hela tiden medan man eldar, så att vattnet cirkulerar genom kaminen och hela tunnan värms upp.\n\nFör att pumpen ska gå hela tiden trycker man på den röda knappen på timern som sitter under altanen (inte på pumpen!). Då kopplas timern ur och pumpen går i permanent drift.\n\n\n\nTimern till pumpen. Med den röda knappen kopplas timern ur så att pumpen går hela tiden.\n\n\n\n\n\n\n\n\nNoteraNär man inte eldar\n\n\n\nNär tunnan är fylld men inte används står pumpen på timer och går lite då och då. Det håller vattnet i rörelse så att det inte blir smutsigt."
   },
   {
-    "objectID": "badtunna.html#filtret",
-    "href": "badtunna.html#filtret",
+    "objectID": "badtunna.html#badtunna-filter",
+    "href": "badtunna.html#badtunna-filter",
     "title": "Badtunnan",
     "section": "Filtret",
     "text": "Filtret\nPumpen och filtret står under altanen, bakom en lucka i panelen.\n\n\n\nPumpen (till höger) och filterbehållaren under altanen.\n\n\nOvanpå filterbehållaren sitter ett vred med flera lägen. De två viktigaste är:\n\nFiltration: det vanliga läget när badtunnan är i drift.\nBackspolning (Backwash/Rinse): spolar filtret baklänges och blåser ur smutsen ur filterbollarna.\n\n\n\n\nVredet ovanpå filterbehållaren, där man väljer läge.\n\n\n\nSå här backspolar man filtret\n\nLyft upp spaken på vredet och vrid till backspolningsläget.\nLåt pumpen gå. Det rinner ut en hel del vatten när smutsen spolas ur filtret.\nVrid tillbaka till Filtration när du är klar.\n\n\n\n\n\n\n\nTipsHur ofta?\n\n\n\nDet behövs inte när man precis har startat upp för säsongen, eftersom allt då är rent. Backspola i stället när tunnan har använts ett tag, till exempel någon gång mitt i sommaren."
   },
   {
-    "objectID": "badtunna.html#inför-vintern",
-    "href": "badtunna.html#inför-vintern",
+    "objectID": "badtunna.html#badtunna-vinter",
+    "href": "badtunna.html#badtunna-vinter",
     "title": "Badtunnan",
     "section": "Inför vintern",
     "text": "Inför vintern\n\nTömma ledningarna och kaminen\n\nÖppna avtappningsventilen på ledningen vid kaminen. Vattnet kommer ut med tryck.\nTa av locket på avtappningen så att resten av vattnet rinner ut.\nKoppla loss slangarna från kaminen och låt allt vatten i kaminen rinna ut.\nKontrollera att kaminen är helt tom, och bär sedan in den under byggnaden.\n\nSjälva rören kan ligga kvar ute över vintern.\n\n\n\nAvtappningsventilen på ledningen vid kaminen.\n\n\n\n\nPump och filter\n\nKoppla loss de tre slangarna från pumpen och filterbehållaren.\nSkruva av de två skruvarna och öppna filterbehållaren.\nTa ur filterbollarna. Spola av dem så gott det går, och låt dem torka så att de är redo till nästa säsong. Man kan också köpa nya filterbollar.\nBär in pumpen och filtret och ställ dem inomhus under altanen, vid varmvattenberedaren.\n\n\n\n\n\n\n\nNoteraFilterbollar eller sand?\n\n\n\nFiltret går också att köra med filtersand, men filterbollarna har fungerat mycket bättre."
@@ -77,15 +112,15 @@
     "text": "Ventilerna\nI vattenstugan sitter två avstängningsventiler som sticker upp ur gruset, båda med blå isolering runt röret.\n\nVentilen närmast stugan är vår och styr vattnet till vår stuga.\nDen andra ventilen går till grannstugan (sidostugan). Den ska man inte röra.\n\n\n\n\nVentilnyckeln sätts ner på spindeln till ventilen för vår stuga."
   },
   {
-    "objectID": "vattenstugan.html#stänga-av-vattnet-inför-vintern",
-    "href": "vattenstugan.html#stänga-av-vattnet-inför-vintern",
+    "objectID": "vattenstugan.html#stanga-av",
+    "href": "vattenstugan.html#stanga-av",
     "title": "Vattenstugan på tomten",
     "section": "Stänga av vattnet (inför vintern)",
     "text": "Stänga av vattnet (inför vintern)\n\nÖppna locket på vattenstugan.\nSätt ventilnyckeln på vår ventil och vrid medurs för att öppna.\nNär ventilen är öppen börjar vattnet i ledningarna att rinna ut. Det hörs att det rinner.\nGå in i stugan och öppna alla kranar. Då rinner allt vatten ut ur fastighetens ledningar och vidare ut i samfällighetens uppsamlingsområde.\n\n\nÖppna kranarna i stugan\n\nLyft upp spaken på kranen så att den står helt öppen. Det bubblar i kranen när luft kommer in och vattnet rinner undan. Det går ganska snabbt.\nVrid spaken fram och tillbaka mellan varmt och kallt några gånger, så att både varm- och kallvattenledningen töms.\nLämna kranen öppen över vintern.\nGör likadant med alla kranar i stugan.\n\n\n\n\nLyft upp spaken så att kranen står helt öppen. Vrid spaken fram och tillbaka mellan varmt och kallt.\n\n\n\n\n\n\n\n\nTipsVarför ska kranarna vara öppna?\n\n\n\nMed öppna kranar kan luft komma in och vattnet rinna ut ur ledningarna. Ledningarna töms då helt, så att inget vatten står kvar och fryser under vintern.\n\n\n\n\nGlykol i vattenlåsen\nNär vattnet är avstängt för vintern: häll lite glykol i alla vattenlås, dvs. i toaletten, duschen, handfatet och diskhon i köket. Då står det glykol i vattenlåsen i stället för vatten, så att de inte fryser sönder.\n\n\n\n\n\n\nViktigtGlöm inte\n\n\n\nGör det här varje gång vattnet stängs av inför vintern, efter att ledningarna har tömts."
   },
   {
-    "objectID": "vattenstugan.html#sätta-på-vattnet-igen",
-    "href": "vattenstugan.html#sätta-på-vattnet-igen",
+    "objectID": "vattenstugan.html#satta-pa",
+    "href": "vattenstugan.html#satta-pa",
     "title": "Vattenstugan på tomten",
     "section": "Sätta på vattnet igen",
     "text": "Sätta på vattnet igen\n\nStäng alla kranar i stugan.\nSätt ventilnyckeln på vår ventil och vrid moturs för att stänga ventilen.\nTrycket byggs upp i ledningen. Vrid sedan ventilen ända i botten, lite längre än man tror.\n\n\n\n\n\n\n\nVarningLyssna efter flöde\n\n\n\nLyssna efter ett porlande ljud. Om det fortfarande låter som att vatten flödar är ventilen inte helt stängd. Då släpps en del av vattnet ut via dräneringen i stället för att gå till stugan, och det kan bli en vattenpöl vid vattenstugan."
@@ -96,6 +131,41 @@
     "title": "Vattenstugan på tomten",
     "section": "Avsluta",
     "text": "Avsluta\nLägg tillbaka locket på vattenstugan när du är klar.\n\n\n\nVattenstugan med locket stängt."
+  },
+  {
+    "objectID": "luftvarmepump.html",
+    "href": "luftvarmepump.html",
+    "title": "Luftvärmepumpen",
+    "section": "",
+    "text": "Luftvärmepumpen styrs med fjärrkontrollen (Nordic Air). För att den ska värma måste sol-läget ☀️ vara aktivt.\n\nTryck på OPERATION MODE tills solsymbolen ☀️ syns uppe till vänster i displayen.\nStäll in önskad temperatur med pilknapparna ▲ / ▼.\nSlå på och av med I/O-knappen.\n\n\n\n\nFjärrkontrollen i sol-läget (värme), inställd på 25 °C. Solsymbolen syns ovanför temperaturen.\n\n\n\n\n\n\n\n\nVarningUndvik kyla ❄️\n\n\n\nAnvänd inte luftvärmepumpen för att kyla. En av ledningarna är inte isolerad. Vid kylning kan det bildas kondens på den, vilket kan ge vattenskador.\n\n\n\n\n\n\n\n\nNoteraSäkring\n\n\n\nPå säkringsschemat i elcentralen är luftvärmepumpens säkring märkt “Luft”, se Kopplingsschema."
+  },
+  {
+    "objectID": "luftvarmepump.html#värme-sol-läget",
+    "href": "luftvarmepump.html#värme-sol-läget",
+    "title": "Luftvärmepumpen",
+    "section": "",
+    "text": "Luftvärmepumpen styrs med fjärrkontrollen (Nordic Air). För att den ska värma måste sol-läget ☀️ vara aktivt.\n\nTryck på OPERATION MODE tills solsymbolen ☀️ syns uppe till vänster i displayen.\nStäll in önskad temperatur med pilknapparna ▲ / ▼.\nSlå på och av med I/O-knappen.\n\n\n\n\nFjärrkontrollen i sol-läget (värme), inställd på 25 °C. Solsymbolen syns ovanför temperaturen.\n\n\n\n\n\n\n\n\nVarningUndvik kyla ❄️\n\n\n\nAnvänd inte luftvärmepumpen för att kyla. En av ledningarna är inte isolerad. Vid kylning kan det bildas kondens på den, vilket kan ge vattenskador.\n\n\n\n\n\n\n\n\nNoteraSäkring\n\n\n\nPå säkringsschemat i elcentralen är luftvärmepumpens säkring märkt “Luft”, se Kopplingsschema."
+  },
+  {
+    "objectID": "kopplingsschema.html",
+    "href": "kopplingsschema.html",
+    "title": "Kopplingsschema",
+    "section": "",
+    "text": "Guide till de två kopplingsscheman som finns: det handskrivna säkringsschemat och kopplingsschemat (wiring diagram) för en värmepumps utedel."
+  },
+  {
+    "objectID": "kopplingsschema.html#sakringar",
+    "href": "kopplingsschema.html#sakringar",
+    "title": "Kopplingsschema",
+    "section": "Säkringsschemat",
+    "text": "Säkringsschemat\nSäkringsschemat är handskrivet på en bit kartong. Det visar säkringarna i fyra kolumner med tre säkringar i varje. Flera rader är överstrukna och har skrivits om, så schemat har uppdaterats över tid.\n\n\n\nDet handskrivna säkringsschemat.\n\n\nTolkning av schemat, i samma ordning som på kartongen (överstruken text är utelämnad):\n\n\n\n\n\n\n\n\n\n\nRad\nKolumn 1\nKolumn 2\nKolumn 3\nKolumn 4\n\n\n\n\nÖverst\nSpis\nUttag vid golv\nBelysning tak: kök, toa, rum\nVärme fönster\n\n\nMitten\nSpis\nKylskåp, diskbänk\nLuft\nVärme nya rummet\n\n\nNederst\nSpis\nBelysning hall, bro\nTom\nKök–sov värme\n\n\n\n\n“Luft” är skrivet i rött och har ersatt en äldre text. Det är troligen säkringen till luftvärmepumpen."
+  },
+  {
+    "objectID": "kopplingsschema.html#kopplingsschema-för-värmepumpens-utedel",
+    "href": "kopplingsschema.html#kopplingsschema-för-värmepumpens-utedel",
+    "title": "Kopplingsschema",
+    "section": "Kopplingsschema för värmepumpens utedel",
+    "text": "Kopplingsschema för värmepumpens utedel\nDet andra schemat är en tryckt dekal med rubriken Wiring diagram. Den visar hur utedelen till en värmepump är kopplad. Det står inte på dekalen vilken maskin den hör till. Att den har en givare för vattentemperatur (water temp sensor) kan betyda att det är luftvarmvattenberedarens utedel.\n\n\n\nKopplingsschemat (wiring diagram) för värmepumpens utedel.\n\n\n\nKomponenter\n\n\n\n\n\n\n\n\nPå schemat\nPå svenska\nFunktion\n\n\n\n\nPower (L, N, jord)\nMatning\nInkommande ström: fas (L), nolla (N) och jord\n\n\nCM, compressor\nKompressor\nPumpar runt köldmediet\n\n\nCompressor capacitor\nKompressorkondensator\nHjälper kompressorn att starta\n\n\nProtector\nMotorskydd\nSkyddar kompressorn (finns bara på vissa modeller)\n\n\nFM, fan motor\nFläktmotor\nDriver utedelens fläkt\n\n\nFan capacitor\nFläktkondensator\nHjälper fläktmotorn att starta\n\n\n4-way valve\nFyrvägsventil\nVäxlar köldmediets riktning, t.ex. vid avfrostning\n\n\nSwitch valve\nMagnetventil\nÖppnar och stänger ett köldmedieflöde\n\n\nCompressor / condenser / chassis heater\nVärmare för kompressor, kondensor och chassi\nVärmekablar som håller delarna varma när det är kallt\n\n\nHeating belt temperature switch\nTermostat för värmekablarna\nSlår på värmarna ovan när det blir kallt\n\n\nLow-pressure switch\nLågtrycksvakt\nStänger av om trycket i köldmediet blir för lågt\n\n\nOutdoor control unit\nStyrkort\nStyr allt i utedelen\n\n\nTransformer\nTransformator\nGer lågspänning till styrkortet\n\n\nConnector\nKopplingsplint\nAnslutning mellan utedelen och resten av systemet\n\n\nTo controller (CN6)\nTill styrningen\nKabel till displayen/manöverpanelen\n\n\n\n\n\nGivare (temperatursensorer)\nGivarna sitter på styrkortets kontakter CN2–CN5:\n\n\n\nPå schemat\nPå svenska\n\n\n\n\nExhaust\nHetgas (temperatur efter kompressorn)\n\n\nEnvironment\nUtomhustemperatur\n\n\nDefrost\nAvfrostning (förångarens temperatur)\n\n\nWater temp sensor\nVattentemperatur\n\n\n\n\n\nKabelfärger\n\n\n\nFörkortning\nFärg\n\n\n\n\nBLK\nSvart\n\n\nBRN\nBrun\n\n\nBLU\nBlå\n\n\nRED\nRöd\n\n\nWHT\nVit\n\n\nYLW/GRN\nGul/grön (jord)\n\n\n\n\n\n\n\n\n\nViktigtElarbete\n\n\n\nSchemat är till för att man ska förstå hur utedelen är uppbyggd. Arbete i elinstallationen ska göras av en behörig elektriker."
   },
   {
     "objectID": "index.html",
@@ -112,8 +182,8 @@
     "text": "Plats: I badrummet, bakom panelen.\nGuide till luftvarmvattenberedaren i badrummet: hur man ställer in temperaturen, hur man får extra varmvatten, hur golvvärmen fungerar, hur man fyller på glykol och hur man stänger av inför vintern."
   },
   {
-    "objectID": "luftvarmvattenberedare.html#ställa-in-temperaturen",
-    "href": "luftvarmvattenberedare.html#ställa-in-temperaturen",
+    "objectID": "luftvarmvattenberedare.html#temperatur",
+    "href": "luftvarmvattenberedare.html#temperatur",
     "title": "Luftvarmvattenberedaren",
     "section": "Ställa in temperaturen",
     "text": "Ställa in temperaturen\nTemperaturen ställs in på displayen på väggen i badrummet.\n\n\n\nDisplayen där man ställer in temperaturen.\n\n\n\n60 grader är max. Tobias har alltid kört den på 60 grader och aldrig brytt sig om timer och liknande inställningar.\nI början av sommaren, eller när man inte behöver så mycket varmvatten, finns det ingen anledning att köra på 60 grader. Sänk till exempel till 40 grader, eller stäng av den."
@@ -140,8 +210,8 @@
     "text": "Värmekabeln under huset\nUnder huset finns en värmekabel som går ner till filtret, se Värmekabeln. Om det kommer vatten i köket men inte i badrummet när det är kallt behöver vattnet i ledningen till badrummet värmas upp. Kör då värmekabeln en stund, cirka 5 minuter till en kvart."
   },
   {
-    "objectID": "luftvarmvattenberedare.html#golvvärmen",
-    "href": "luftvarmvattenberedare.html#golvvärmen",
+    "objectID": "luftvarmvattenberedare.html#golvvarme",
+    "href": "luftvarmvattenberedare.html#golvvarme",
     "title": "Luftvarmvattenberedaren",
     "section": "Golvvärmen",
     "text": "Golvvärmen\nGolvvärmen har två kablar som sitter ihop. När man sätter i kontakten börjar cirkulationspumparna pumpa ut varmt vatten i golvslingorna. Man hör när den startar.\n\n\n\nCirkulationspumparna till golvvärmen.\n\n\n\nSlangarna i golvet sitter fastklickade i plåtar under hela stugan, och det är plåtarna som sprider värmen.\nDet tar tid innan plåtarna värms upp. Räkna med att golvvärmen behöver gå något dygn innan man känner att golvet blir varmt.\nPumparna går att ställa på högre fart, men det behövs inte.\n\n\n\n\n\n\n\nNoteraNär behövs golvvärmen?\n\n\n\nNär golven är kalla, till exempel på hösten eller tidigt på våren. På sommaren behövs den inte. Då är det bara resursslöseri.\n\n\n\nStig och retur\nTvå temperaturmätare visar hur varmt vattnet i golvvärmen är:\n\nS (stigledning): vattnet som skickas ut i golvet.\nR (returledning): vattnet som kommer tillbaka, till exempel runt 28–30 grader.\n\n\n\n\nTemperaturmätarna och pumpen till golvvärmen.\n\n\n\n\nJustera temperaturen\nEn liten ratt (shunt) styr vilken temperatur som skickas ut i golvvärmesystemet.\n\n\n\nRatten som reglerar temperaturen till golvvärmen.\n\n\n\nVrid ratten väldigt lite åt gången.\nVänta, och kolla mätarna för S och R ungefär var tionde minut för att se vad som händer.\nKänn efter om golvet är lagom varmt, till exempel när du kliver upp på morgonen. Justera lite till om det behövs.\n\nDet handlar om att prova sig fram. Skillnaden mellan ett golv som är 10 grader och ett som är 20 grader känns stor."
@@ -154,8 +224,8 @@
     "text": "Glykol\nSystemet innehåller en blandning av vatten och glykol.\n\nKontrollera nivån\nGlykolbehållaren sitter högst upp bakom panelen i badrummet.\n\n\n\nGlykolbehållaren bakom panelen.\n\n\nHör man att det bubblar i systemet är det för lite glykol, och då behöver man fylla på. Att man inte ser någon vätska eller nivå i behållaren betyder inte att den är tom.\n\n\nFylla på glykol\nPåfyllningen görs utifrån med en tryckspruta (glykolpåfyllaren).\n\n\n\nGlykolpåfyllaren.\n\n\n\nKöp färdigblandad glykol, 50/50 vatten och glykol (finns till exempel på ICA).\nHäll blandningen i påfyllaren och pumpa upp tryck i den.\nStick in slangen i det lilla plaströret som sticker ut under takfoten på husets utsida.\nStå på backen och pumpa, så att det rinner in.\nTa gärna hjälp av någon som står inne och tittar på behållaren och säger till när nivån är rätt. Nivån ska stiga lite grann när man pumpar.\n\n\n\n\nPlaströret under takfoten där man sticker in slangen.\n\n\n\n\n\n\n\n\nTipsHur ofta?\n\n\n\nTobias har kollat över glykolen ungefär en gång per år."
   },
   {
-    "objectID": "luftvarmvattenberedare.html#inför-vintern",
-    "href": "luftvarmvattenberedare.html#inför-vintern",
+    "objectID": "luftvarmvattenberedare.html#beredare-vinter",
+    "href": "luftvarmvattenberedare.html#beredare-vinter",
     "title": "Luftvarmvattenberedaren",
     "section": "Inför vintern",
     "text": "Inför vintern\n\nSlå av brytaren på husets utsida. Den sitter direkt på andra sidan väggen från luftvarmvattenberedaren.\nStäll gärna in ett litet element på lägsta nivån på golvet i badrummet över vintern.\nHäll glykol i vattenlåsen, se Vattenstugan."
@@ -175,8 +245,8 @@
     "text": "När behövs den?\nNär det är minusgrader kan vattenledningen frysa. Märker man det genom att man vrider på kranen ute men inget vatten kommer, då är det dags att köra värmekabeln."
   },
   {
-    "objectID": "värmekabel.html#så-här-tinar-man-upp-ledningen",
-    "href": "värmekabel.html#så-här-tinar-man-upp-ledningen",
+    "objectID": "värmekabel.html#tina",
+    "href": "värmekabel.html#tina",
     "title": "Värmekabeln",
     "section": "Så här tinar man upp ledningen",
     "text": "Så här tinar man upp ledningen\n\nKontrollera att jordfelsbrytaren är påslagen (spaken uppåt, läge 1/On).\nKoppla in den svarta värmekabeln i uttaget och slå på det.\nLåt kabeln vara på i ungefär en kvart.\nStäng av och vänta en stund.\nSlå på igen i ytterligare cirka fem minuter.\n\nDärefter brukar vattnet vara uppe igen. Det går fort."
@@ -187,5 +257,54 @@
     "title": "Värmekabeln",
     "section": "Jordfelsbrytaren",
     "text": "Jordfelsbrytaren\n\n\n\nJordfelsbrytaren till värmekabeln.\n\n\n\nSpaken uppåt = påslagen.\nSpaken nedåt = avslagen (eller utlöst).\n\n\n\n\n\n\n\nTipsTesta jordfelsbrytaren\n\n\n\nJordfelsbrytaren har en testknapp. Tryck på den då och då för säkerhets skull. Spaken ska då slå ifrån (gå nedåt). Slå sedan på den igen."
+  },
+  {
+    "objectID": "till-vintern.html",
+    "href": "till-vintern.html",
+    "title": "Till vintern",
+    "section": "",
+    "text": "Guide till allt som ska göras när huset stängs inför vintern, samlat på ett ställe. Varje del länkar till den utförliga beskrivningen."
+  },
+  {
+    "objectID": "till-vintern.html#badtunnan",
+    "href": "till-vintern.html#badtunnan",
+    "title": "Till vintern",
+    "section": "Badtunnan",
+    "text": "Badtunnan\nMer om detta under Badtunnan, Inför vintern.\n\nÖppna avtappningsventilen på ledningen vid kaminen och ta av locket på avtappningen så att resten rinner ut.\nKoppla loss slangarna från kaminen, låt den rinna tom och bär in kaminen under byggnaden. Rören kan ligga kvar ute.\nKoppla loss de tre slangarna från pumpen och filterbehållaren.\nSkruva av de två skruvarna, öppna filterbehållaren och ta ur filterbollarna. Spola av dem och låt dem torka.\nBär in pumpen och filtret och ställ dem inomhus under altanen, vid varmvattenberedaren."
+  },
+  {
+    "objectID": "till-vintern.html#luftvarmvattenberedaren",
+    "href": "till-vintern.html#luftvarmvattenberedaren",
+    "title": "Till vintern",
+    "section": "Luftvarmvattenberedaren",
+    "text": "Luftvarmvattenberedaren\nMer om detta under Luftvarmvattenberedaren, Inför vintern.\n\nSlå av brytaren på husets utsida, direkt på andra sidan väggen från beredaren.\nStäll gärna ett litet element på lägsta nivån på golvet i badrummet."
+  },
+  {
+    "objectID": "till-vintern.html#stänga-av-och-tömma-vattnet",
+    "href": "till-vintern.html#stänga-av-och-tömma-vattnet",
+    "title": "Till vintern",
+    "section": "Stänga av och tömma vattnet",
+    "text": "Stänga av och tömma vattnet\nMer om detta under Vattenstugan, Stänga av vattnet.\n\nÖppna locket på vattenstugan.\nSätt ventilnyckeln på vår ventil (den närmast stugan) och vrid medurs. Vattnet börjar rinna ut ur ledningarna. Rör inte grannens ventil.\nGå in i stugan och öppna alla kranar helt. Vrid spaken fram och tillbaka mellan varmt och kallt så att båda ledningarna töms.\nLämna kranarna öppna över vintern."
+  },
+  {
+    "objectID": "till-vintern.html#vattenfiltret",
+    "href": "till-vintern.html#vattenfiltret",
+    "title": "Till vintern",
+    "section": "Vattenfiltret",
+    "text": "Vattenfiltret\nRengör eller byt grovfiltret (huset med det blå handtaget) under stugan, en gång per säsong. Se Vattenfiltret."
+  },
+  {
+    "objectID": "till-vintern.html#glykol-i-vattenlåsen",
+    "href": "till-vintern.html#glykol-i-vattenlåsen",
+    "title": "Till vintern",
+    "section": "Glykol i vattenlåsen",
+    "text": "Glykol i vattenlåsen\nNär ledningarna är tömda: häll lite glykol i alla vattenlås, dvs. toaletten, duschen, handfatet och diskhon i köket. Se Glykol i vattenlåsen."
+  },
+  {
+    "objectID": "till-vintern.html#avsluta",
+    "href": "till-vintern.html#avsluta",
+    "title": "Till vintern",
+    "section": "Avsluta",
+    "text": "Avsluta\nLägg tillbaka locket på vattenstugan.\n\n\n\n\n\n\nTipsChecklista\n\n\n\n\nBadtunnans kamin tömd och inburen\nPump och filter urkopplade, filterbollar urtagna, allt inburet\nBrytaren till luftvarmvattenberedaren avslagen\nElement på lägsta i badrummet\nVattnet avstängt i vattenstugan, alla kranar öppna\nVattenfiltret rengjort eller bytt\nGlykol i toalett, dusch, handfat och diskho\nLocket på vattenstugan"
   }
 ]

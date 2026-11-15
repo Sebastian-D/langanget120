@@ -44,9 +44,9 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-d584230e92ecc901ea8b048067ba2756.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-984178a222c619e44ca9eaa3759b5413.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-d584230e92ecc901ea8b048067ba2756.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-17fa43110252fe5d7fbc076cda6e6503.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-2f3706f3f720ffabbc97d3e3986e1aea.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-17fa43110252fe5d7fbc076cda6e6503.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -97,6 +97,14 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
+    <a class="nav-link" href="./till-vintern.html"> 
+<span class="menu-text">Till vintern</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./till-sommaren.html"> 
+<span class="menu-text">Till sommaren</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="./varmvattenberedare.html"> 
 <span class="menu-text">Varmvattenberedare</span></a>
   </li>  
@@ -116,6 +124,14 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link active" href="./luftvarmvattenberedare.html" aria-current="page"> 
 <span class="menu-text">Luftvarmvattenberedare</span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./luftvarmepump.html"> 
+<span class="menu-text">Luftvärmepump</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./kopplingsschema.html"> 
+<span class="menu-text">Kopplingsschema</span></a>
+  </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -132,11 +148,11 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">På denna sida</h2>
    
   <ul>
-  <li><a href="#ställa-in-temperaturen" id="toc-ställa-in-temperaturen" class="nav-link active" data-scroll-target="#ställa-in-temperaturen">Ställa in temperaturen</a></li>
+  <li><a href="#temperatur" id="toc-temperatur" class="nav-link active" data-scroll-target="#temperatur">Ställa in temperaturen</a></li>
   <li><a href="#extra-varmvatten-turbo" id="toc-extra-varmvatten-turbo" class="nav-link" data-scroll-target="#extra-varmvatten-turbo">Extra varmvatten (“turbo”)</a></li>
   <li><a href="#elpatronen" id="toc-elpatronen" class="nav-link" data-scroll-target="#elpatronen">Elpatronen</a></li>
   <li><a href="#värmekabeln-under-huset" id="toc-värmekabeln-under-huset" class="nav-link" data-scroll-target="#värmekabeln-under-huset">Värmekabeln under huset</a></li>
-  <li><a href="#golvvärmen" id="toc-golvvärmen" class="nav-link" data-scroll-target="#golvvärmen">Golvvärmen</a>
+  <li><a href="#golvvarme" id="toc-golvvarme" class="nav-link" data-scroll-target="#golvvarme">Golvvärmen</a>
   <ul class="collapse">
   <li><a href="#stig-och-retur" id="toc-stig-och-retur" class="nav-link" data-scroll-target="#stig-och-retur">Stig och retur</a></li>
   <li><a href="#justera-temperaturen" id="toc-justera-temperaturen" class="nav-link" data-scroll-target="#justera-temperaturen">Justera temperaturen</a></li>
@@ -146,7 +162,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#kontrollera-nivån" id="toc-kontrollera-nivån" class="nav-link" data-scroll-target="#kontrollera-nivån">Kontrollera nivån</a></li>
   <li><a href="#fylla-på-glykol" id="toc-fylla-på-glykol" class="nav-link" data-scroll-target="#fylla-på-glykol">Fylla på glykol</a></li>
   </ul></li>
-  <li><a href="#inför-vintern" id="toc-inför-vintern" class="nav-link" data-scroll-target="#inför-vintern">Inför vintern</a></li>
+  <li><a href="#beredare-vinter" id="toc-beredare-vinter" class="nav-link" data-scroll-target="#beredare-vinter">Inför vintern</a></li>
   </ul>
 </nav>
     </div>
@@ -174,8 +190,8 @@ ul.task-list li input[type="checkbox"] {
 
 <p>Plats: I badrummet, bakom panelen.</p>
 <p>Guide till luftvarmvattenberedaren i badrummet: hur man ställer in temperaturen, hur man får extra varmvatten, hur golvvärmen fungerar, hur man fyller på glykol och hur man stänger av inför vintern.</p>
-<section id="ställa-in-temperaturen" class="level2">
-<h2 class="anchored" data-anchor-id="ställa-in-temperaturen">Ställa in temperaturen</h2>
+<section id="temperatur" class="level2">
+<h2 class="anchored" data-anchor-id="temperatur">Ställa in temperaturen</h2>
 <p>Temperaturen ställs in på displayen på väggen i badrummet.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
@@ -232,8 +248,8 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="värmekabeln-under-huset">Värmekabeln under huset</h2>
 <p>Under huset finns en värmekabel som går ner till filtret, se <a href="./värmekabel.html">Värmekabeln</a>. Om det kommer vatten i köket men inte i badrummet när det är kallt behöver vattnet i ledningen till badrummet värmas upp. Kör då värmekabeln en stund, cirka 5 minuter till en kvart.</p>
 </section>
-<section id="golvvärmen" class="level2">
-<h2 class="anchored" data-anchor-id="golvvärmen">Golvvärmen</h2>
+<section id="golvvarme" class="level2">
+<h2 class="anchored" data-anchor-id="golvvarme">Golvvärmen</h2>
 <p>Golvvärmen har två kablar som sitter ihop. När man sätter i kontakten börjar cirkulationspumparna pumpa ut varmt vatten i golvslingorna. Man hör när den startar.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
@@ -341,8 +357,8 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </section>
 </section>
-<section id="inför-vintern" class="level2">
-<h2 class="anchored" data-anchor-id="inför-vintern">Inför vintern</h2>
+<section id="beredare-vinter" class="level2">
+<h2 class="anchored" data-anchor-id="beredare-vinter">Inför vintern</h2>
 <ol type="1">
 <li>Slå av brytaren på husets utsida. Den sitter direkt på andra sidan väggen från luftvarmvattenberedaren.</li>
 <li>Ställ gärna in ett litet element på lägsta nivån på golvet i badrummet över vintern.</li>
